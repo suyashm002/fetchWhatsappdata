@@ -23,6 +23,8 @@ Before you begin, ensure you have met the following requirements:
 3. Add an Android app to your Firebase project and follow the setup instructions.
 4. Download the google-services.json file and place it in the app directory of your project.
 
+   
+
 **Usage**
 1. Grant Notification Access
 
@@ -37,7 +39,8 @@ Launch the app on your device. It will start listening for WhatsApp notification
 **Main Components**
 1. NotificationListenerService: This service listens for incoming notifications and extracts WhatsApp messages.
 2. FirebaseManager: This class handles the connection to Firebase and uploads the messages.
-3. 
+
+
 **Key Files**
 1. NotificationListenerService.java: Contains the logic for listening to and processing notifications.
 2. FirebaseManager.java: Contains methods for uploading data to Firebase.
