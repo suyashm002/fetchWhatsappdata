@@ -52,8 +52,6 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 Contact
 If you have any questions, feel free to reach out:
 
-Your Name
 Email: suyashm002@gmail.com
-GitHub: suyashm002
 
 ***Disclaimer: This app is intended for personal use and should not be used to infringe on privacy. Always seek permission before accessing someone's messages.***
